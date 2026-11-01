@@ -104,11 +104,8 @@ const Skills = () => {
       skills: [
         { name: 'Flask', icon: <FaFlask />, color: '#ffffff' },
         { name: 'Streamlit', icon: <SiStreamlit />, color: '#ff4b4b' },
-        { name: 'Node.js', icon: <FaNode />, color: '#339933' },
-        { name: 'Express.js', icon: <SiExpress />, color: '#ffffff' },
         { name: 'REST APIs', icon: <FaCode />, color: '#ff6b6b' },
         { name: 'React.js', icon: <FaReact />, color: '#61dafb' },
-        { name: 'Next.js', icon: <SiNextdotjs />, color: '#ffffff' },
         { name: 'Tailwind CSS', icon: <SiTailwindcss />, color: '#06b6d4' },
         { name: 'HTML5', icon: <SiHtml5 />, color: '#e34f26' },
         { name: 'CSS3', icon: <SiCss3 />, color: '#1572b6' },
