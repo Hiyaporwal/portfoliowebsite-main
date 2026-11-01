@@ -58,7 +58,7 @@ const Hero = () => {
           </motion.h1>
 
           <motion.p variants={itemVariants} className="hero-subtitle">
-            Data Analyst | AI/ML &amp; Full Stack Developer
+            Data Analyst | AI/ML &amp; Data Scientist
           </motion.p>
 
           <motion.p variants={itemVariants} className="hero-description">
